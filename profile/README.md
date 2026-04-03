@@ -1,12 +1,12 @@
 # Dondake Ltd
 
-We build community-first software, media, and event tools.
+Dondake Ltd is a company built by a longstanding group of friends who like making useful things.
 
-Dondake Ltd was formed by longtime friends behind Cyprus Comic Con, a non-profit community platform that has been running for more than 12 years and now reaches nearly 60,000 people a year across its wider event ecosystem.
+We build software, media, and community-first tools, and we are also the people behind Cyprus Comic Con. That work started years before the company itself, through volunteer-led community building, and eventually grew into something durable enough to deserve its own home.
 
 If our open-source work saves you time or helps your team, sponsorship helps fund more tools like these.
 
 [![Sponsor Dondake Ltd](https://img.shields.io/badge/Sponsor-Dondake%20Ltd-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Dondake-Ltd)
 
 - Website: https://dondake.ltd
-- Community roots: https://cypruscomiccon.org
+- Cyprus Comic Con: https://cypruscomiccon.org
