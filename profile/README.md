@@ -2,7 +2,7 @@
 
 Dondake Ltd is a company built by a longstanding group of friends who like making useful things.
 
-We build software, media, and community-first tools, and we are also the people behind Cyprus Comic Con. That work started years before the company itself, through volunteer-led community building, and eventually grew into something durable enough to deserve its own home.
+We build software, media, and community-first tools, and we are also the people behind Cyprus Comic Con. That work started years before the company itself through volunteer-led community building, beginning with OtakuCy in 2012 and growing into one of the region's biggest pop culture events. In 2025 alone, Cyprus Comic Con drew more than **31,500 attendees** to its flagship event and roughly **29,000 more people** across other gatherings and mall events.
 
 If our open-source work saves you time or helps your team, sponsorship helps fund more tools like these.
 
